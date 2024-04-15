@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+:root{
+    --dark-color: #000 ;
+}
+
+body{
+    background-color: var(--dark-color);
+}
